@@ -5,7 +5,7 @@
 
 - Vamos a añadir una foto entre el texto
 
-![Imagen de una aurora boreal](Hola_Mundo/aurora.jpg)
+![Imagen de colibries](Hola_Mundo/colibri.jpg)
 
 - Vamos a añadir un link
   - [julianaLoor](https://github.com/julianaLoor/Hola-Mundo)
