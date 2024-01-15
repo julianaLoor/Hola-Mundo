@@ -27,4 +27,5 @@
 
 - Experiencias personales: Cada individuo experimenta el mundo de manera única, influenciado por su entorno, educación, creencias y experiencias personales.
 - Búsqueda de significado: La vida humana está llena de búsqueda de significado, propósito y conexiones significativas con el mundo que nos rodea y con los demás.
+
 En resumen, el mundo es un lugar diverso, complejo y en constante cambio, lleno de maravillas naturales, oportunidades y desafíos, moldeado por la interacción entre la naturaleza, la sociedad, y las experiencias indivudales de cada ser humano.
